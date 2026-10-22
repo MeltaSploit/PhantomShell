@@ -62,7 +62,7 @@ Dibangun dengan **C++ murni**, **Win32 API**, dan **Winsock2** — tanpa framewo
 | Compiler | MinGW-w64 (GCC) atau MSYS2 |
 | Library | `ws2_32`, `comctl32`, `ole32`, `comdlg32` |
 
-### Untuk Menjalankan `test.exe`
+### Untuk Menjalankan `PhantomShell.exe`
 | Komponen | Keterangan |
 |----------|------------|
 | OS | Windows 7 ke atas |
